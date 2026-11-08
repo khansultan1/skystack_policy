@@ -113,6 +113,8 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 If you have any questions or concerns regarding this Privacy Policy, please contact:
 
-**Developer:** Sultan Khan
+**Developer:** Sultan Khan (trading as UJ Global)
 
-**Email:** [khansultan1@gmail.com)
+**Email:** [khansultan1@gmail.com](mailto:khansultan1@gmail.com)
+
+**Website:** [https://ujglobal.tech](https://ujglobal.tech)
