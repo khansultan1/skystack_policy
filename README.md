@@ -113,6 +113,6 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 If you have any questions or concerns regarding this Privacy Policy, please contact:
 
-**Developer:** UJ Global Tech OPC Private Limited
+**Developer:** Sultan Khan
 
-**Email:** [info@ujglobal.tech](mailto:info@ujglobal.tech)
+**Email:** [khansultan1@gmail.com)
